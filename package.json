@@ -1,5 +1,5 @@
 {
-  "name": "language-slim",
+  "name": "slim-language",
   "version": "1.0.0",
   "description": "Syntax highlighting for the Slim template language",
   "repository": "https://github.com/ianmitchell/language-slim",
