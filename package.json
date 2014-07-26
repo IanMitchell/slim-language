@@ -1,12 +1,11 @@
 {
   "name": "slim-language",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Syntax highlighting for the Slim template language",
   "repository": "https://github.com/ianmitchell/slim-language",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
